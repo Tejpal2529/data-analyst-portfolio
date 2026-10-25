@@ -7,9 +7,13 @@ I have completed a master's degree in Computer Science an hold an undergraduate 
 ##Technical Skills
 
 Programming: Python (learning)
+
 Data Analysis: Excel, data cleaning and exploratory analysis (learning)
+
 Database: SQL (learning)
+
 Data Visualisation: Power BI/ Tableau (learning)
+
 Tools: Git, GitGub, Visual Studio Code
 
 ##Projects 
