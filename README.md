@@ -19,8 +19,10 @@ A planned project to clean, analyse, and visualise a public dataset using Python
 Tools: Python, Pandas, Matplotlib.
 
 Education
+
 Master's degree in Computer Science
 Undergraduate degree in Civil Engineering
 
 Career Goals
+
 I am working towards entry-level opportunities in data analysis, reporting, and business intelligence, where I can apply my analytical thinking and continue developing my technical skills.
