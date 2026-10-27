@@ -32,3 +32,34 @@ for student in students:
         "- Study hours:", student["study_hours"],
         "| Score:", student["score"]
     )
+import matplotlib.pyplot as plt
+
+# Get study hours and scores
+study_hours = [int(student["study_hours"]) for student in students]
+student_scores = [int(student["score"]) for student in students]
+
+# Create a chart
+plt.scatter(study_hours, student_scores)
+
+plt.title("Study Hours vs Exam Scores")
+plt.xlabel("Study Hours")
+plt.ylabel("Exam Score")
+plt.grid(True)
+
+# Show the chart
+plt.show()
+
+
+print("\nStudent Pass/Fail Analysis")
+
+pass_mark = 50
+
+for student in students:
+    score = int(student["score"])
+
+    if score >= pass_mark:
+        result = "Pass"
+    else:
+        result = "Fail"
+
+    print(student["name"], "-", result)
