@@ -36,6 +36,23 @@ A planned project to clean, analyse, and visualise a public dataset using Python
 ## Career Goals
 
 I am working towards entry-level opportunities in data analysis, reporting, and business intelligence, where I can apply my analytical thinking and continue developing my technical skills.
+## Project 2: Sales Data Analysis
+
+### Overview
+Analysed sales data using Python and Pandas.
+
+### Tools
+- Python
+- Pandas
+- Matplotlib
+
+### Key Results
+- Total Revenue: £5,020
+- Best-Selling Product: Headphones
+- Highest Revenue Product: Mobile
+
+### Visualisation
+Created a bar chart to compare revenue across products.
 
 
 
