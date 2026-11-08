@@ -53,6 +53,9 @@ Analysed sales data using Python and Pandas.
 
 ### Visualisation
 Created a bar chart to compare revenue across products.
+### Sales Revenue Chart
+
+![Sales Revenue Chart](sales_revenue_chart.png)
 
 
 
